@@ -1,0 +1,30 @@
+{
+  "name": "nix-data-memory",
+  "version": "0.0.0",
+  "description": "Memory data source for Nix bots",
+  "author": {
+    "name": "Stephen A. Wilson",
+    "email": "Stephen-356@hotmail.com",
+    "url": "http://stephenawilson.me"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {},
+  "main": "index.js",
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js",
+    "framework",
+    "nix-core",
+    "datasource"
+  ],
+  "repository": "https://github.com/nix-core/nix-data-memory",
+  "license": "MIT",
+  "dependencies": {},
+  "peerDependencies": {
+    "rx": "^4.1.0"
+  },
+  "devDependencies": {}
+}
