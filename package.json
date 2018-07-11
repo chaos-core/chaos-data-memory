@@ -1,6 +1,6 @@
 {
   "name": "nix-data-memory",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Memory data source for Nix bots",
   "author": {
     "name": "Stephen A. Wilson",
@@ -24,7 +24,9 @@
   "license": "MIT",
   "dependencies": {},
   "peerDependencies": {
-    "rx": "^4.1.0"
+    "rxjs": "^5.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "rxjs": "^5.0.0"
+  }
 }
