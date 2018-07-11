@@ -1,6 +1,6 @@
 {
   "name": "nix-data-memory",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Memory data source for Nix bots",
   "author": {
     "name": "Stephen A. Wilson",
