@@ -1,1 +1,1 @@
-module.exports = require('./lib/nix-data-memory');
+module.exports = require('./lib/chaos-data-memory');
