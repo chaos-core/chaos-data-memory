@@ -1,7 +1,7 @@
 {
-  "name": "nix-data-memory",
+  "name": "chaos-data-memory",
   "version": "0.0.3",
-  "description": "Memory data source for Nix bots",
+  "description": "Memory data source for chaos bots",
   "author": {
     "name": "Stephen A. Wilson",
     "email": "Stephen-356@hotmail.com",
@@ -17,10 +17,10 @@
     "bot",
     "discord.js",
     "framework",
-    "nix-core",
+    "chaos-core",
     "datasource"
   ],
-  "repository": "https://github.com/nix-core/nix-data-memory",
+  "repository": "https://github.com/chaos-core/chaos-data-memory",
   "license": "MIT",
   "dependencies": {},
   "peerDependencies": {

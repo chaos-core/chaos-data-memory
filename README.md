@@ -1,1 +1,1 @@
-nix-data-memory
+chaos-data-memory
