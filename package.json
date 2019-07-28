@@ -1,6 +1,6 @@
 {
   "name": "chaos-data-memory",
-  "version": "4.0.0-dev",
+  "version": "4.0.1",
   "description": "Memory data source for chaos bots",
   "author": {
     "name": "Stephen A. Wilson",
