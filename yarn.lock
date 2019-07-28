@@ -9,12 +9,12 @@ async@^2.6.1:
   dependencies:
     lodash "^4.17.11"
 
-chaos-core@~4.0.0-dev:
-  version "4.0.0-dev"
-  resolved "https://registry.yarnpkg.com/chaos-core/-/chaos-core-4.0.0-dev.tgz#04d90dad13b6fcba398cbe413967666712ab0686"
-  integrity sha512-GpHL7ToPLX5bYD/zhnpsjhCd4sGmg1swiTAhbfqArNMD1O5hqyk/FETpnW8CUB6HEya2381aeQ3OwOVhShzYEg==
+chaos-core@^4.0.6:
+  version "4.0.6"
+  resolved "https://registry.yarnpkg.com/chaos-core/-/chaos-core-4.0.6.tgz#76b4ad63fe1f6c0b60f4c041ea0f9570c9f5f365"
+  integrity sha512-irtJ9L3zpaT4sbAjO/my+DRt9jUHtVg60/IvTri3tVw/9uLxN899eJpemBEFMZT9n1TYByDMJOZ2Bsrf6enWKA==
   dependencies:
-    winston "^3.0.0"
+    winston "^3.2.1"
 
 color-convert@^1.9.1:
   version "1.9.3"
@@ -249,7 +249,7 @@ winston-transport@^4.3.0:
     readable-stream "^2.3.6"
     triple-beam "^1.2.0"
 
-winston@^3.0.0:
+winston@^3.2.1:
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/winston/-/winston-3.2.1.tgz#63061377976c73584028be2490a1846055f77f07"
   integrity sha512-zU6vgnS9dAWCEKg/QYigd6cgMVVNwyTzKs81XZtTFuRwJOcDdBg7AU0mXVyNbs7O5RH2zdv+BdNZUlx7mXPuOw==
