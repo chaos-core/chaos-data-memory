@@ -9,11 +9,12 @@ async@^2.6.1:
   dependencies:
     lodash "^4.17.11"
 
-chaos-core@^4.0.6:
-  version "4.0.6"
-  resolved "https://registry.yarnpkg.com/chaos-core/-/chaos-core-4.0.6.tgz#76b4ad63fe1f6c0b60f4c041ea0f9570c9f5f365"
-  integrity sha512-irtJ9L3zpaT4sbAjO/my+DRt9jUHtVg60/IvTri3tVw/9uLxN899eJpemBEFMZT9n1TYByDMJOZ2Bsrf6enWKA==
+chaos-core@^4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/chaos-core/-/chaos-core-4.2.0.tgz#9869e07c8c7d001c5431a23dc76cb761577a04c6"
+  integrity sha512-QD9mychtPh2cog2hkWXBWij2pg2CFZjRMO99WPe1VRdGUuQw1NyafyREDOLxug6u9JLUj+flJS/VRwmmWhA3iw==
   dependencies:
+    deepmerge "^4.2.2"
     winston "^3.2.1"
 
 color-convert@^1.9.1:
@@ -71,6 +72,11 @@ core-util-is@~1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/core-util-is/-/core-util-is-1.0.2.tgz#b5fd54220aa2bc5ab57aab7140c940754503c1a7"
   integrity sha1-tf1UIgqivFq1eqtxQMlAdUUDwac=
+
+deepmerge@^4.2.2:
+  version "4.2.2"
+  resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-4.2.2.tgz#44d2ea3679b8f4d4ffba33f03d865fc1e7bf4955"
+  integrity sha512-FJ3UgI4gIl+PHZm53knsuSFpE+nESMr7M4v9QcgB7S63Kj/6WqMiFQJpBBYz1Pt+66bZpP3Q7Lye0Oo9MPKEdg==
 
 diagnostics@^1.1.1:
   version "1.1.1"

@@ -1,6 +1,6 @@
 {
   "name": "chaos-data-memory",
-  "version": "4.0.1",
+  "version": "4.2.0",
   "description": "Memory data source for chaos bots",
   "author": {
     "name": "Stephen A. Wilson",
@@ -24,10 +24,10 @@
   "license": "MIT",
   "peerDependencies": {
     "rxjs": "^6.5.1",
-    "chaos-core": "^4.0.6"
+    "chaos-core": "^4.2.0"
   },
   "devDependencies": {
     "rxjs": "^6.5.1",
-    "chaos-core": "^4.0.6"
+    "chaos-core": "^4.2.0"
   }
 }
