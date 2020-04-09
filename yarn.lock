@@ -9,10 +9,9 @@ async@^2.6.1:
   dependencies:
     lodash "^4.17.11"
 
-chaos-core@^4.2.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/chaos-core/-/chaos-core-4.2.0.tgz#9869e07c8c7d001c5431a23dc76cb761577a04c6"
-  integrity sha512-QD9mychtPh2cog2hkWXBWij2pg2CFZjRMO99WPe1VRdGUuQw1NyafyREDOLxug6u9JLUj+flJS/VRwmmWhA3iw==
+"chaos-core@https://github.com/chaos-core/chaos-core.git#v4.3.0-dev":
+  version "4.3.0-dev"
+  resolved "https://github.com/chaos-core/chaos-core.git#51ca657bd21cc2682e62803f579328691e38f28d"
   dependencies:
     deepmerge "^4.2.2"
     winston "^3.2.1"
