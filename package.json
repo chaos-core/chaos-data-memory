@@ -28,6 +28,6 @@
   },
   "devDependencies": {
     "rxjs": "^6.5.1",
-    "chaos-core": "https://github.com/chaos-core/chaos-core.git#v4.3.0-dev"
+    "chaos-core": "^4.3.0"
   }
 }
