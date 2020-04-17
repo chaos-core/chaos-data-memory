@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="002df4f1-49e6-45ae-a314-c99c1382e4f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1adZZpZtSIyYUKdrs3rtRt0E4NZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test-bot.js" type="NodeJSConfigurationType" temporary="true" path-to-node="wsl://UBUNTU@/home/stephen/.nvm/versions/node/v12.16.1/bin/node" nameIsGenerated="true" path-to-js-file="test-bot.js" working-dir="$PROJECT_DIR$/test">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.test-bot.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update to ChaosCore v5.0.0-dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="update to ChaosCore v5.0.0-dev" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1011" y="198" key="#test-bot.js" timestamp="1587067970506">
+      <screen x="62" y="0" width="2498" height="1080" />
+    </state>
+    <state x="1011" y="198" key="#test-bot.js/62.0.2498.1080/-1080.-851.1080.1920/2560.-853.1080.1920@62.0.2498.1080" timestamp="1587067970506" />
+    <state width="793" height="945" key="GridCell.Tab.0.bottom" timestamp="1587071299274">
+      <screen x="62" y="0" width="2498" height="1080" />
+    </state>
+    <state width="793" height="945" key="GridCell.Tab.0.bottom/62.0.2498.1080/-1080.-851.1080.1920/2560.-853.1080.1920@62.0.2498.1080" timestamp="1587071299274" />
+    <state width="793" height="945" key="GridCell.Tab.0.center" timestamp="1587071299273">
+      <screen x="62" y="0" width="2498" height="1080" />
+    </state>
+    <state width="793" height="945" key="GridCell.Tab.0.center/62.0.2498.1080/-1080.-851.1080.1920/2560.-853.1080.1920@62.0.2498.1080" timestamp="1587071299273" />
+    <state width="793" height="945" key="GridCell.Tab.0.left" timestamp="1587071299273">
+      <screen x="62" y="0" width="2498" height="1080" />
+    </state>
+    <state width="793" height="945" key="GridCell.Tab.0.left/62.0.2498.1080/-1080.-851.1080.1920/2560.-853.1080.1920@62.0.2498.1080" timestamp="1587071299273" />
+    <state width="793" height="945" key="GridCell.Tab.0.right" timestamp="1587071299273">
+      <screen x="62" y="0" width="2498" height="1080" />
+    </state>
+    <state width="793" height="945" key="GridCell.Tab.0.right/62.0.2498.1080/-1080.-851.1080.1920/2560.-853.1080.1920@62.0.2498.1080" timestamp="1587071299273" />
+    <state x="1115" y="158" key="RollbackChangesDialog" timestamp="1587067932904">
+      <screen x="62" y="0" width="2498" height="1080" />
+    </state>
+    <state x="1115" y="158" key="RollbackChangesDialog/62.0.2498.1080/-1080.-851.1080.1920/2560.-853.1080.1920@62.0.2498.1080" timestamp="1587067932904" />
+    <state x="903" y="272" key="Vcs.Push.Dialog.v2" timestamp="1587068382506">
+      <screen x="62" y="0" width="2498" height="1080" />
+    </state>
+    <state x="903" y="272" key="Vcs.Push.Dialog.v2/62.0.2498.1080/-1080.-851.1080.1920/2560.-853.1080.1920@62.0.2498.1080" timestamp="1587068382506" />
+    <state x="974" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1587067905888">
+      <screen x="62" y="0" width="2498" height="1080" />
+    </state>
+    <state x="974" y="235" width="672" height="678" key="search.everywhere.popup/62.0.2498.1080/-1080.-851.1080.1920/2560.-853.1080.1920@62.0.2498.1080" timestamp="1587067905888" />
+  </component>
+</project>
